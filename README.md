@@ -1,1 +1,1 @@
-# Hadoop
+# Hadoop Word Count Example
